@@ -204,6 +204,28 @@ The system expects CSV files with the following structure:
 - **Cross-validation**: 5-fold
 - **Scoring**: F1-weighted
 
+## 🔒 Cybersecurity Applications
+
+### For Bug Bounty Hunters
+- **Traffic Analysis**: Upload network captures to identify suspicious patterns
+- **Attack Detection**: Automatically detect DoS, Probe, and other attack types
+- **Vulnerability Research**: Use ML insights to understand attack vectors
+
+### For Ethical Hackers
+- **Red Team Operations**: Simulate attacks and measure detection capabilities
+- **Penetration Testing**: Validate security controls and monitoring systems
+- **Threat Modeling**: Understand how ML can enhance security postures
+
+### For Security Researchers
+- **Attack Pattern Analysis**: Study different attack methodologies
+- **Model Comparison**: Evaluate different ML approaches for threat detection
+- **Feature Engineering**: Understand which network features are most important
+
+### For Blue Team Defenders
+- **Incident Response**: Rapid identification of malicious network activity
+- **Security Monitoring**: Real-time threat detection and alerting
+- **Forensic Analysis**: Post-incident network traffic analysis
+
 ## 🛠️ Customization
 
 ### Adding New Models

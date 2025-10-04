@@ -4,20 +4,27 @@
 `NeuroShield-IDS` or `ml-intrusion-detection-system`
 
 ## Description
-🛡️ **ML-Based Intrusion Detection System** - A comprehensive machine learning solution for network security with 99.55% accuracy. Features multiple ML algorithms (Random Forest, Decision Tree, SVM), interactive Streamlit dashboard, and real-time intrusion detection capabilities.
+🛡️ **NeuroShield IDS** - Advanced ML-Based Intrusion Detection System for cybersecurity professionals. Achieves 99.55% accuracy in detecting network attacks (DoS, Probe, R2L, U2R). Features multiple ML algorithms, real-time analysis, and interactive dashboard. Perfect for bug bounty hunters, ethical hackers, and security researchers.
 
 ## Topics/Tags
 ```
-machine-learning
-intrusion-detection
 cybersecurity
+intrusion-detection
+machine-learning
+bug-bounty
+ethical-hacking
+network-security
+penetration-testing
+red-team
+blue-team
+threat-detection
 streamlit
 python
 random-forest
-network-security
 anomaly-detection
 ml-pipeline
 data-science
+security-research
 ```
 
 ## Key Features
