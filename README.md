@@ -39,6 +39,11 @@ NeuroShield IDS/
 │   └── preprocess.py      # Data preprocessing utilities
 ├── dashboard/
 │   └── app.py             # Streamlit dashboard
+├── images/                # Web interface screenshots
+│   ├── dashboard_main.png
+│   ├── upload_predict.png
+│   ├── model_performance.png
+│   └── live_analysis.png
 └── models/
     ├── ids_model.pkl      # Best trained model
     ├── preprocessor.pkl   # Data preprocessor
@@ -155,6 +160,24 @@ Attack    42      2029
 - Model information
 - Usage instructions
 - Feature documentation
+
+## 📸 Web Interface Screenshots
+
+### Main Dashboard
+![Dashboard Main Interface](images/dashboard_main.png)
+*Main dashboard showing upload functionality and system overview*
+
+### Upload & Predict Interface
+![Upload & Predict Tab](images/upload_predict.png)
+*Upload CSV files and get real-time intrusion detection predictions*
+
+### Model Performance Visualization
+![Model Performance Tab](images/model_performance.png)
+*Compare different ML models with detailed performance metrics*
+
+### Live Analysis Monitoring
+![Live Analysis Tab](images/live_analysis.png)
+*Real-time network traffic monitoring and threat detection*
 
 ## 🔧 Technical Details
 
